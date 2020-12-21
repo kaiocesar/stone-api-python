@@ -22,6 +22,7 @@ O consumo desta api será feito por meio dos endpoints:
 - O historico de desenvolvimento deste projeto está registrado nas mensagens de commit.
 
 
-
+### CI
+[![Build Status](https://travis-ci.com/kaiocesar/stone-api-python.svg?branch=master)](https://travis-ci.com/kaiocesar/stone-api-python)
 
 
